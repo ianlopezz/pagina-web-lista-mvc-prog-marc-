@@ -56,7 +56,6 @@ Tabla: `Tareas`
 <img width="1919" height="957" alt="Captura de pantalla 2026-05-20 170456" src="https://github.com/user-attachments/assets/b248ddab-4b11-481a-9066-b5f7632d4df2" />
 
 ### Editar producto
-<img width="776" height="246" alt="Captura de pantalla 2026-05-20 170523" src="https://github.com/user-attachments/assets/6bdfd504-4c25-4360-9b3a-ba55bdc3ca5d" />
 <img width="1917" height="963" alt="Captura de pantalla 2026-05-20 170448" src="https://github.com/user-attachments/assets/bba6d1b3-b5a0-4134-a303-b9de746948f4" />
 
 
